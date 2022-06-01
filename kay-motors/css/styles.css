@@ -1,8 +1,8 @@
 .nav label{
-    color: blue;
-    font-size: 1.7vmax;
-    margin-left: 1.4vmax;
-    margin-right: 45vmax;
+    color: white;
+    font-size: 22px;
+    margin-left: 1.8vmax;
+    margin-right: 27vmax;
 }
 b{
     color: hsl(0, 100%, 50%);
@@ -10,4 +10,7 @@ b{
 
 .nav-link{
     color: whitesmoke;
+}
+.banner{
+    
 }
