@@ -1,0 +1,13 @@
+.nav label{
+    color: blue;
+    font-size: 1.7vmax;
+    margin-left: 1.4vmax;
+    margin-right: 45vmax;
+}
+b{
+    color: hsl(0, 100%, 50%);
+}
+
+.nav-link{
+    color: whitesmoke;
+}
